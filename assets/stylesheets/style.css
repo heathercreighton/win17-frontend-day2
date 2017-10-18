@@ -1,0 +1,72 @@
+/*
+#f9f9e0 - light beige color for background 
+#213a63 - dark blue color for container
+
+
+
+*/
+
+
+body {
+	background: #f9f9e0;
+}
+
+.container{
+	font-size: 20px;
+	height: 100px;
+	width: 100%;
+	background: #213a63;
+	color: #f9f9e0;
+	text-align: center;
+	font-family: 'Marck Script', cursive;
+	border-width: 10px;
+	border-color: white;
+}
+
+img {
+	height: 300px;
+	width: 500px;
+}
+
+ a.img:hover{
+
+	height: 500px;
+	width: 700px;
+}
+
+h3, p{
+
+	font-family: 'Covered By Your Grace', cursive;
+
+}
+
+p {
+	font-size: 24px;
+}
+
+h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+a:hover {
+	color: red;
+	font-size: 50px;
+}
+
+.border-test{
+height:400px;
+width: 400px;
+border: 10px;
+border-color: black;
+border-style: solid;
+border-radius: 50%;
+
+}
+
+
+.div2 {
+	height:300px;
+	width: 300px;
+	background-color: blue;
+}
